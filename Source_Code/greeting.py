@@ -1,3 +1,2 @@
-greeting = "Hello"
-name = input("Enter you name: ")
-print(greeting + name)
+name = str(input(name ))
+print(hi , name)
